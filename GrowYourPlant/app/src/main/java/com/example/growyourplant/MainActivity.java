@@ -1,3 +1,6 @@
+/*
+Tentem colocar tudo em páginas separadas pra ficar mais organizado.
+ */
 package com.example.growyourplant;
 
 import android.os.Bundle;
